@@ -1,0 +1,328 @@
+﻿name,coef,影响方向
+num__MS SubClass,-0.0,负向降价
+num__Lot Frontage,0.0,负向降价
+num__Lot Area,0.0,负向降价
+num__Overall Qual,0.0,负向降价
+num__Overall Cond,-0.0,负向降价
+num__Year Built,0.0,负向降价
+num__Year Remod/Add,0.0,负向降价
+num__Mas Vnr Area,0.0,负向降价
+num__BsmtFin SF 1,0.0,负向降价
+num__BsmtFin SF 2,0.0,负向降价
+num__Bsmt Unf SF,0.0,负向降价
+num__Total Bsmt SF,0.0,负向降价
+num__1st Flr SF,0.0,负向降价
+num__2nd Flr SF,0.0,负向降价
+num__Low Qual Fin SF,-0.0,负向降价
+num__Gr Liv Area,0.0,负向降价
+num__Bsmt Full Bath,0.0,负向降价
+num__Bsmt Half Bath,-0.0,负向降价
+num__Full Bath,0.0,负向降价
+num__Half Bath,0.0,负向降价
+num__Bedroom AbvGr,0.0,负向降价
+num__Kitchen AbvGr,-0.0,负向降价
+num__TotRms AbvGrd,0.0,负向降价
+num__Fireplaces,0.0,负向降价
+num__Garage Yr Blt,0.0,负向降价
+num__Garage Cars,0.0,负向降价
+num__Garage Area,0.0,负向降价
+num__Wood Deck SF,0.0,负向降价
+num__Open Porch SF,0.0,负向降价
+num__Enclosed Porch,-0.0,负向降价
+num__3Ssn Porch,0.0,负向降价
+num__Screen Porch,0.0,负向降价
+num__Pool Area,0.0,负向降价
+num__Misc Val,-0.0,负向降价
+num__Mo Sold,0.0,负向降价
+num__Yr Sold,-0.0,负向降价
+num__Lot Frontage_missing,0.0,负向降价
+num__Mas Vnr Area_missing,0.0,负向降价
+num__BsmtFin SF 1_missing,-0.0,负向降价
+num__BsmtFin SF 2_missing,-0.0,负向降价
+num__Bsmt Unf SF_missing,-0.0,负向降价
+num__Total Bsmt SF_missing,-0.0,负向降价
+num__Bsmt Full Bath_missing,-0.0,负向降价
+num__Bsmt Half Bath_missing,-0.0,负向降价
+num__Garage Yr Blt_missing,-0.0,负向降价
+num__Garage Cars_missing,-0.0,负向降价
+num__Garage Area_missing,-0.0,负向降价
+num__LogSalePrice,0.37504449615957136,正向抬价
+cat__MS Zoning_A (agr),-0.0,负向降价
+cat__MS Zoning_C (all),-0.0,负向降价
+cat__MS Zoning_FV,0.0,负向降价
+cat__MS Zoning_I (all),-0.0,负向降价
+cat__MS Zoning_RH,-0.0,负向降价
+cat__MS Zoning_RL,0.0,负向降价
+cat__MS Zoning_RM,-0.0,负向降价
+cat__Street_Grvl,-0.0,负向降价
+cat__Street_Pave,0.0,负向降价
+cat__Alley_Grvl,-0.0,负向降价
+cat__Alley_Missing,0.0,负向降价
+cat__Alley_Pave,0.0,负向降价
+cat__Lot Shape_IR1,0.0,负向降价
+cat__Lot Shape_IR2,0.0,负向降价
+cat__Lot Shape_IR3,0.0,负向降价
+cat__Lot Shape_Reg,-0.0,负向降价
+cat__Land Contour_Bnk,-0.0,负向降价
+cat__Land Contour_HLS,0.0,负向降价
+cat__Land Contour_Low,0.0,负向降价
+cat__Land Contour_Lvl,-0.0,负向降价
+cat__Utilities_AllPub,0.0,负向降价
+cat__Utilities_NoSeWa,-0.0,负向降价
+cat__Utilities_NoSewr,-0.0,负向降价
+cat__Lot Config_Corner,-0.0,负向降价
+cat__Lot Config_CulDSac,0.0,负向降价
+cat__Lot Config_FR2,-0.0,负向降价
+cat__Lot Config_FR3,0.0,负向降价
+cat__Lot Config_Inside,-0.0,负向降价
+cat__Land Slope_Gtl,-0.0,负向降价
+cat__Land Slope_Mod,0.0,负向降价
+cat__Land Slope_Sev,0.0,负向降价
+cat__Neighborhood_Blmngtn,0.0,负向降价
+cat__Neighborhood_Blueste,-0.0,负向降价
+cat__Neighborhood_BrDale,-0.0,负向降价
+cat__Neighborhood_BrkSide,-0.0,负向降价
+cat__Neighborhood_ClearCr,0.0,负向降价
+cat__Neighborhood_CollgCr,0.0,负向降价
+cat__Neighborhood_Crawfor,0.0,负向降价
+cat__Neighborhood_Edwards,-0.0,负向降价
+cat__Neighborhood_Gilbert,0.0,负向降价
+cat__Neighborhood_Greens,0.0,负向降价
+cat__Neighborhood_GrnHill,0.0,负向降价
+cat__Neighborhood_IDOTRR,-0.0,负向降价
+cat__Neighborhood_Landmrk,-0.0,负向降价
+cat__Neighborhood_MeadowV,-0.0,负向降价
+cat__Neighborhood_Mitchel,-0.0,负向降价
+cat__Neighborhood_NAmes,-0.0,负向降价
+cat__Neighborhood_NPkVill,-0.0,负向降价
+cat__Neighborhood_NWAmes,0.0,负向降价
+cat__Neighborhood_NoRidge,0.0,负向降价
+cat__Neighborhood_NridgHt,0.0,负向降价
+cat__Neighborhood_OldTown,-0.0,负向降价
+cat__Neighborhood_SWISU,-0.0,负向降价
+cat__Neighborhood_Sawyer,-0.0,负向降价
+cat__Neighborhood_SawyerW,0.0,负向降价
+cat__Neighborhood_Somerst,0.0,负向降价
+cat__Neighborhood_StoneBr,0.0,负向降价
+cat__Neighborhood_Timber,0.0,负向降价
+cat__Neighborhood_Veenker,0.0,负向降价
+cat__Condition 1_Artery,-0.0,负向降价
+cat__Condition 1_Feedr,-0.0,负向降价
+cat__Condition 1_Norm,0.0,负向降价
+cat__Condition 1_PosA,0.0,负向降价
+cat__Condition 1_PosN,0.0,负向降价
+cat__Condition 1_RRAe,-0.0,负向降价
+cat__Condition 1_RRAn,0.0,负向降价
+cat__Condition 1_RRNe,-0.0,负向降价
+cat__Condition 1_RRNn,0.0,负向降价
+cat__Condition 2_Artery,-0.0,负向降价
+cat__Condition 2_Feedr,-0.0,负向降价
+cat__Condition 2_Norm,0.0,负向降价
+cat__Condition 2_PosA,0.0,负向降价
+cat__Condition 2_PosN,0.0,负向降价
+cat__Condition 2_RRAe,0.0,负向降价
+cat__Condition 2_RRAn,-0.0,负向降价
+cat__Condition 2_RRNn,-0.0,负向降价
+cat__Bldg Type_1Fam,0.0,负向降价
+cat__Bldg Type_2fmCon,-0.0,负向降价
+cat__Bldg Type_Duplex,-0.0,负向降价
+cat__Bldg Type_Twnhs,-0.0,负向降价
+cat__Bldg Type_TwnhsE,0.0,负向降价
+cat__House Style_1.5Fin,-0.0,负向降价
+cat__House Style_1.5Unf,-0.0,负向降价
+cat__House Style_1Story,-0.0,负向降价
+cat__House Style_2.5Fin,0.0,负向降价
+cat__House Style_2.5Unf,0.0,负向降价
+cat__House Style_2Story,0.0,负向降价
+cat__House Style_SFoyer,-0.0,负向降价
+cat__House Style_SLvl,-0.0,负向降价
+cat__Roof Style_Flat,0.0,负向降价
+cat__Roof Style_Gable,-0.0,负向降价
+cat__Roof Style_Gambrel,-0.0,负向降价
+cat__Roof Style_Hip,0.0,负向降价
+cat__Roof Style_Mansard,0.0,负向降价
+cat__Roof Style_Shed,0.0,负向降价
+cat__Roof Matl_ClyTile,-0.0,负向降价
+cat__Roof Matl_CompShg,-0.0,负向降价
+cat__Roof Matl_Membran,0.0,负向降价
+cat__Roof Matl_Metal,0.0,负向降价
+cat__Roof Matl_Roll,-0.0,负向降价
+cat__Roof Matl_Tar&Grv,0.0,负向降价
+cat__Roof Matl_WdShake,0.0,负向降价
+cat__Roof Matl_WdShngl,0.0,负向降价
+cat__Exterior 1st_AsbShng,-0.0,负向降价
+cat__Exterior 1st_AsphShn,-0.0,负向降价
+cat__Exterior 1st_BrkComm,-0.0,负向降价
+cat__Exterior 1st_BrkFace,0.0,负向降价
+cat__Exterior 1st_CBlock,-0.0,负向降价
+cat__Exterior 1st_CemntBd,0.0,负向降价
+cat__Exterior 1st_HdBoard,-0.0,负向降价
+cat__Exterior 1st_ImStucc,0.0,负向降价
+cat__Exterior 1st_MetalSd,-0.0,负向降价
+cat__Exterior 1st_Plywood,-0.0,负向降价
+cat__Exterior 1st_PreCast,0.0,负向降价
+cat__Exterior 1st_Stone,0.0,负向降价
+cat__Exterior 1st_Stucco,-0.0,负向降价
+cat__Exterior 1st_VinylSd,0.0,负向降价
+cat__Exterior 1st_Wd Sdng,-0.0,负向降价
+cat__Exterior 1st_WdShing,-0.0,负向降价
+cat__Exterior 2nd_AsbShng,-0.0,负向降价
+cat__Exterior 2nd_AsphShn,-0.0,负向降价
+cat__Exterior 2nd_Brk Cmn,-0.0,负向降价
+cat__Exterior 2nd_BrkFace,0.0,负向降价
+cat__Exterior 2nd_CBlock,-0.0,负向降价
+cat__Exterior 2nd_CmentBd,0.0,负向降价
+cat__Exterior 2nd_HdBoard,-0.0,负向降价
+cat__Exterior 2nd_ImStucc,0.0,负向降价
+cat__Exterior 2nd_MetalSd,-0.0,负向降价
+cat__Exterior 2nd_Plywood,-0.0,负向降价
+cat__Exterior 2nd_PreCast,0.0,负向降价
+cat__Exterior 2nd_Stone,-0.0,负向降价
+cat__Exterior 2nd_Stucco,-0.0,负向降价
+cat__Exterior 2nd_VinylSd,0.0,负向降价
+cat__Exterior 2nd_Wd Sdng,-0.0,负向降价
+cat__Exterior 2nd_Wd Shng,-0.0,负向降价
+cat__Mas Vnr Type_BrkCmn,-0.0,负向降价
+cat__Mas Vnr Type_BrkFace,0.0,负向降价
+cat__Mas Vnr Type_CBlock,-0.0,负向降价
+cat__Mas Vnr Type_Missing,-0.0,负向降价
+cat__Mas Vnr Type_Stone,0.0,负向降价
+cat__Exter Qual_Ex,0.0,负向降价
+cat__Exter Qual_Fa,-0.0,负向降价
+cat__Exter Qual_Gd,0.0,负向降价
+cat__Exter Qual_TA,-0.0,负向降价
+cat__Exter Cond_Ex,0.0,负向降价
+cat__Exter Cond_Fa,-0.0,负向降价
+cat__Exter Cond_Gd,-0.0,负向降价
+cat__Exter Cond_Po,-0.0,负向降价
+cat__Exter Cond_TA,0.0,负向降价
+cat__Foundation_BrkTil,-0.0,负向降价
+cat__Foundation_CBlock,-0.0,负向降价
+cat__Foundation_PConc,0.0,负向降价
+cat__Foundation_Slab,-0.0,负向降价
+cat__Foundation_Stone,-0.0,负向降价
+cat__Foundation_Wood,0.0,负向降价
+cat__Bsmt Qual_Ex,0.0,负向降价
+cat__Bsmt Qual_Fa,-0.0,负向降价
+cat__Bsmt Qual_Gd,0.0,负向降价
+cat__Bsmt Qual_Missing,-0.0,负向降价
+cat__Bsmt Qual_Po,-0.0,负向降价
+cat__Bsmt Qual_TA,-0.0,负向降价
+cat__Bsmt Cond_Ex,0.0,负向降价
+cat__Bsmt Cond_Fa,-0.0,负向降价
+cat__Bsmt Cond_Gd,0.0,负向降价
+cat__Bsmt Cond_Missing,-0.0,负向降价
+cat__Bsmt Cond_Po,-0.0,负向降价
+cat__Bsmt Cond_TA,0.0,负向降价
+cat__Bsmt Exposure_Av,0.0,负向降价
+cat__Bsmt Exposure_Gd,0.0,负向降价
+cat__Bsmt Exposure_Missing,-0.0,负向降价
+cat__Bsmt Exposure_Mn,0.0,负向降价
+cat__Bsmt Exposure_No,-0.0,负向降价
+cat__BsmtFin Type 1_ALQ,-0.0,负向降价
+cat__BsmtFin Type 1_BLQ,-0.0,负向降价
+cat__BsmtFin Type 1_GLQ,0.0,负向降价
+cat__BsmtFin Type 1_LwQ,-0.0,负向降价
+cat__BsmtFin Type 1_Missing,-0.0,负向降价
+cat__BsmtFin Type 1_Rec,-0.0,负向降价
+cat__BsmtFin Type 1_Unf,-0.0,负向降价
+cat__BsmtFin Type 2_ALQ,0.0,负向降价
+cat__BsmtFin Type 2_BLQ,-0.0,负向降价
+cat__BsmtFin Type 2_GLQ,0.0,负向降价
+cat__BsmtFin Type 2_LwQ,-0.0,负向降价
+cat__BsmtFin Type 2_Missing,-0.0,负向降价
+cat__BsmtFin Type 2_Rec,-0.0,负向降价
+cat__BsmtFin Type 2_Unf,0.0,负向降价
+cat__Heating_Floor,-0.0,负向降价
+cat__Heating_GasA,0.0,负向降价
+cat__Heating_GasW,-0.0,负向降价
+cat__Heating_Grav,-0.0,负向降价
+cat__Heating_OthW,-0.0,负向降价
+cat__Heating_Wall,-0.0,负向降价
+cat__Heating QC_Ex,0.0,负向降价
+cat__Heating QC_Fa,-0.0,负向降价
+cat__Heating QC_Gd,-0.0,负向降价
+cat__Heating QC_Po,-0.0,负向降价
+cat__Heating QC_TA,-0.0,负向降价
+cat__Central Air_N,-0.0,负向降价
+cat__Central Air_Y,0.0,负向降价
+cat__Electrical_FuseA,-0.0,负向降价
+cat__Electrical_FuseF,-0.0,负向降价
+cat__Electrical_FuseP,-0.0,负向降价
+cat__Electrical_Mix,-0.0,负向降价
+cat__Electrical_SBrkr,0.0,负向降价
+cat__Kitchen Qual_Ex,0.0,负向降价
+cat__Kitchen Qual_Fa,-0.0,负向降价
+cat__Kitchen Qual_Gd,0.0,负向降价
+cat__Kitchen Qual_TA,-0.0,负向降价
+cat__Functional_Maj1,-0.0,负向降价
+cat__Functional_Maj2,-0.0,负向降价
+cat__Functional_Min1,-0.0,负向降价
+cat__Functional_Min2,-0.0,负向降价
+cat__Functional_Mod,-0.0,负向降价
+cat__Functional_Sal,-0.0,负向降价
+cat__Functional_Sev,-0.0,负向降价
+cat__Functional_Typ,0.0,负向降价
+cat__Fireplace Qu_Ex,0.0,负向降价
+cat__Fireplace Qu_Fa,0.0,负向降价
+cat__Fireplace Qu_Gd,0.0,负向降价
+cat__Fireplace Qu_Missing,-0.0,负向降价
+cat__Fireplace Qu_Po,-0.0,负向降价
+cat__Fireplace Qu_TA,0.0,负向降价
+cat__Garage Type_2Types,-0.0,负向降价
+cat__Garage Type_Attchd,0.0,负向降价
+cat__Garage Type_Basment,-0.0,负向降价
+cat__Garage Type_BuiltIn,0.0,负向降价
+cat__Garage Type_CarPort,-0.0,负向降价
+cat__Garage Type_Detchd,-0.0,负向降价
+cat__Garage Type_Missing,-0.0,负向降价
+cat__Garage Finish_Fin,0.0,负向降价
+cat__Garage Finish_Missing,-0.0,负向降价
+cat__Garage Finish_RFn,0.0,负向降价
+cat__Garage Finish_Unf,-0.0,负向降价
+cat__Garage Qual_Ex,0.0,负向降价
+cat__Garage Qual_Fa,-0.0,负向降价
+cat__Garage Qual_Gd,0.0,负向降价
+cat__Garage Qual_Missing,-0.0,负向降价
+cat__Garage Qual_Po,-0.0,负向降价
+cat__Garage Qual_TA,0.0,负向降价
+cat__Garage Cond_Ex,-0.0,负向降价
+cat__Garage Cond_Fa,-0.0,负向降价
+cat__Garage Cond_Gd,0.0,负向降价
+cat__Garage Cond_Missing,-0.0,负向降价
+cat__Garage Cond_Po,-0.0,负向降价
+cat__Garage Cond_TA,0.0,负向降价
+cat__Paved Drive_N,-0.0,负向降价
+cat__Paved Drive_P,-0.0,负向降价
+cat__Paved Drive_Y,0.0,负向降价
+cat__Pool QC_Ex,0.0,负向降价
+cat__Pool QC_Fa,0.0,负向降价
+cat__Pool QC_Gd,0.0,负向降价
+cat__Pool QC_Missing,-0.0,负向降价
+cat__Pool QC_TA,0.0,负向降价
+cat__Fence_GdPrv,0.0,负向降价
+cat__Fence_GdWo,-0.0,负向降价
+cat__Fence_Missing,0.0,负向降价
+cat__Fence_MnPrv,-0.0,负向降价
+cat__Fence_MnWw,-0.0,负向降价
+cat__Misc Feature_Elev,0.0,负向降价
+cat__Misc Feature_Gar2,-0.0,负向降价
+cat__Misc Feature_Missing,0.0,负向降价
+cat__Misc Feature_Othr,-0.0,负向降价
+cat__Misc Feature_Shed,-0.0,负向降价
+cat__Sale Type_COD,-0.0,负向降价
+cat__Sale Type_CWD,0.0,负向降价
+cat__Sale Type_Con,0.0,负向降价
+cat__Sale Type_ConLD,-0.0,负向降价
+cat__Sale Type_ConLI,-0.0,负向降价
+cat__Sale Type_ConLw,-0.0,负向降价
+cat__Sale Type_New,0.0,负向降价
+cat__Sale Type_Oth,-0.0,负向降价
+cat__Sale Type_VWD,-0.0,负向降价
+cat__Sale Type_WD ,-0.0,负向降价
+cat__Sale Condition_Abnorml,-0.0,负向降价
+cat__Sale Condition_AdjLand,-0.0,负向降价
+cat__Sale Condition_Alloca,-0.0,负向降价
+cat__Sale Condition_Family,-0.0,负向降价
+cat__Sale Condition_Normal,-0.0,负向降价
+cat__Sale Condition_Partial,0.0,负向降价
