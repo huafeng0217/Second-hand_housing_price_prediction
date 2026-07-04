@@ -1,0 +1,5 @@
+﻿model,rmse_log,r2_log,source
+Lasso,0.0109426287836435,0.999318814989537,traditional-model branch
+RandomForest,0.0016221846442809,0.9999850299820288,traditional-model branch
+LightGBM,0.0185807426546016,0.9980359710441092,traditional-model branch
+MLP_medium,0.11303181563766607,0.9146027565002441,deep-model branch

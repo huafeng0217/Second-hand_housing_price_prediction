@@ -1,0 +1,84 @@
+{
+  "best_model": "MLP_medium",
+  "best_config": {
+    "hidden_dims": [
+      256,
+      128,
+      64
+    ],
+    "dropout": 0.15,
+    "learning_rate": 0.0008,
+    "weight_decay": 1e-05,
+    "batch_size": 64
+  },
+  "test_rmse_log": 0.11303181563766607,
+  "test_r2_log": 0.9146027565002441,
+  "test_rmse_price": 21741.507583422084,
+  "test_r2_price": 0.9133341312408447,
+  "feature_count_after_encoding": 323,
+  "raw_feature_count": 90,
+  "all_results": [
+    {
+      "model": "MLP_small",
+      "hidden_dims": "(128, 64)",
+      "dropout": 0.1,
+      "learning_rate": 0.001,
+      "weight_decay": 1e-05,
+      "batch_size": 64,
+      "epochs_ran": 63,
+      "best_val_rmse_log": 0.11105360936310064,
+      "test_rmse_log": 0.11422641029188617,
+      "test_r2_log": 0.9127881526947021
+    },
+    {
+      "model": "MLP_medium",
+      "hidden_dims": "(256, 128, 64)",
+      "dropout": 0.15,
+      "learning_rate": 0.0008,
+      "weight_decay": 1e-05,
+      "batch_size": 64,
+      "epochs_ran": 76,
+      "best_val_rmse_log": 0.1104012436561748,
+      "test_rmse_log": 0.11303181563766607,
+      "test_r2_log": 0.9146027565002441
+    },
+    {
+      "model": "MLP_regularized",
+      "hidden_dims": "(256, 128)",
+      "dropout": 0.25,
+      "learning_rate": 0.0008,
+      "weight_decay": 0.0001,
+      "batch_size": 64,
+      "epochs_ran": 56,
+      "best_val_rmse_log": 0.11173819842816414,
+      "test_rmse_log": 0.11908297238221244,
+      "test_r2_log": 0.9052145481109619
+    }
+  ],
+  "comparison": [
+    {
+      "model": "Lasso",
+      "rmse_log": 0.0109426287836435,
+      "r2_log": 0.999318814989537,
+      "source": "traditional-model branch"
+    },
+    {
+      "model": "RandomForest",
+      "rmse_log": 0.0016221846442809,
+      "r2_log": 0.9999850299820288,
+      "source": "traditional-model branch"
+    },
+    {
+      "model": "LightGBM",
+      "rmse_log": 0.0185807426546016,
+      "r2_log": 0.9980359710441092,
+      "source": "traditional-model branch"
+    },
+    {
+      "model": "MLP_medium",
+      "rmse_log": 0.11303181563766607,
+      "r2_log": 0.9146027565002441,
+      "source": "deep-model branch"
+    }
+  ]
+}
